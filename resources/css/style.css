@@ -4,3 +4,14 @@ body {
     font-family: Verdana;
     text-align: center;
 }
+/* Product Introduction */
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+/* Links */
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
