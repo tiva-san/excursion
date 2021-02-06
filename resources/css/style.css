@@ -1,14 +1,24 @@
 /* Universal Styles */
 body {
     background-color: black;
+    color: white;
     font-family: Verdana;
     text-align: center;
 }
 /* Product Introduction */
 h1 {
-    color: white;
     font-weight: normal;
     font-size: 50px;
+}
+/* Product Description */
+h2 {
+   font-weight: 300;
+   font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
 /* Links */
 a {
